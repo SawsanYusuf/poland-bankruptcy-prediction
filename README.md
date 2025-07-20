@@ -47,3 +47,8 @@ Analysis of the model's feature importances (Gini Importance) revealed that its 
 These features highlight the crucial role of a company's profitability, operational efficiency, and ability to manage its financial obligations in determining its bankruptcy risk.
 
 This project demonstrates the successful development of an interpretable and robust bankruptcy prediction model, capable of serving as a valuable **early warning system** for financial institutions and businesses to assess credit risk, guide investment decisions, and enable proactive interventions.
+
+## Author
+**Sawsan Yousef** 
+
+*Data Scientist | Predictive Modeling | Computer Vision*
