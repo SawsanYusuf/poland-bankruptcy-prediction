@@ -7,7 +7,7 @@ This project details the development of a machine learning model to predict comp
 Our journey involved a systematic approach to building a robust bankruptcy prediction system:
 
 1.  **Data Understanding and Preparation:**
-    * We started with the **Poland Bankruptcy Dataset**, which consists of 64 financial ratios (`feat_0` to `feat_64`) as features and a binary target variable indicating bankruptcy status (`bankrupt`).
+    * We started with the **Poland Bankruptcy Dataset**, which consists of 64 financial ratios (`feat_1` to `feat_64`) as features and a binary target variable indicating bankruptcy status (`bankrupt`).
     * A critical initial observation was the severe class imbalance, with bankrupt companies (minority class) being significantly rarer than non-bankrupt ones.
 
 2.  **Addressing Class Imbalance:**
